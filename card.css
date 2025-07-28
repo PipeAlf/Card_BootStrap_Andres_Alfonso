@@ -1,0 +1,47 @@
+.card{
+    background-color: rgb(45, 15, 214);
+    border: 3px solid black;
+    padding: 5px;
+    max-width: 350px;
+    max-height: 860px;
+}
+
+.container{
+    background-color:rgb(255, 30, 0);
+    border: 10px solid yellow;
+    padding: 10px;
+    max-width: 700px;
+    max-height: 900px;
+}
+
+.card-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+
+.card-text{
+    font-family: fantasy;
+    color:beige;
+}
+
+.card-subtitle{
+    font-family: cursive;
+    color:rgb(171, 214, 16);
+    font-size: 40px;
+}
+
+.card-img-top{
+    border-radius: 20%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+.btn-primary{
+    justify-content: center;
+    border: 3px solid black;
+    display: flex;
+}
+.card-link{
+    justify-content: center;
+    border: 3px solid black;
+    display: flex;
+}
